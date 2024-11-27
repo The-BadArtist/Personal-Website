@@ -1,0 +1,15 @@
+{
+  "name": "build-a-personal-portfolio-webpage",
+  "version": "1.0.0",
+  "description": "Who is Javian Huell?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Javian Huell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
